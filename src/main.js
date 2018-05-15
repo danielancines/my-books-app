@@ -9,7 +9,7 @@ function createWindow() {
     })
 
     win.loadURL(url.format({
-        pathname: path.join(__dirname, 'views/index.html'),
+        pathname: path.join(__dirname, 'views/index/index.html'),
         protocol: 'file:',
         slashes: true
     }))

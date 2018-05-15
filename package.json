@@ -22,5 +22,8 @@
   "homepage": "https://github.com/danielancines/my-books-app#readme",
   "devDependencies": {
     "electron": "^2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
